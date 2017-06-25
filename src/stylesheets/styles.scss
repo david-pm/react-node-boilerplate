@@ -1,0 +1,9 @@
+$main-font: 'Droid Sans Mono', monospace;
+$bg-color: #1D1D1D;
+$text-color: #ffe4e1;
+
+html, body{ font-family: $main-font; padding: 5px 20px; }
+
+body{ background: $bg-color; color: $text-color; }
+
+.header { padding: 5px 5px 5px 15px; }
